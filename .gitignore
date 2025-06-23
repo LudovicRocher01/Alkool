@@ -1,6 +1,6 @@
 # Exclure GameData.swift
-Alkool2/Model/GameData.swift
-Alkool2/Model/GameData/
+Alkool2/Models/GameData.swift
+Alkool2/Models/GameData/
 
 # Fichiers temporaires
 .DS_Store
@@ -8,4 +8,3 @@ Alkool2/Model/GameData/
 Pods/
 DerivedData/
 xcuserdata/
-Alkool2/Models/GameData.swift
